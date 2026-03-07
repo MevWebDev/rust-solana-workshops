@@ -1,0 +1,1 @@
+/Users/szymongrysiewicz/repos/rust-solana-workshops/sol-to-lamport-converter/target/debug/sol-to-lamport-converter: /Users/szymongrysiewicz/repos/rust-solana-workshops/sol-to-lamport-converter/src/main.rs
